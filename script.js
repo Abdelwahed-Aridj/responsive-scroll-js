@@ -11,6 +11,7 @@ const end = section.querySelector('h1');
 // scrollmagic
 const controller = new ScrollMagic.Controller();
 
+
 // scene duration and trigger
 let scene = new ScrollMagic.Scene({
   duration: 10000, // video duration in milliseconds
